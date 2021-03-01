@@ -1,0 +1,18 @@
+[14:17:34.561850] [Import] [info] (th=96892) Log level for 'Import' set to 'info'
+[14:17:34.562875] [Import] [info] (th=96892) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Mesh/BG_110m.fbx
+[14:17:34.578435] [Import] [info] (th=96892) Imported scene tree:
+name: "RootNode"
+
+	name: "BG_110m"
+	numMeshes: 1
+	 addr: "0x7fa630b56800"
+	 name: "BG_110m"
+	 numVertices: "263"
+	 numFaces: "434"
+	
+	
+
+[14:17:34.578445] [Import] [info] (th=96892) File loaded successfully
+[14:17:34.578450] [Import] [info] (th=96892) Meshes count: 1
+[14:17:34.578451] [Import] [info] (th=96892) Materials count: 1
+[14:17:34.579986] [Import] [info] (th=96892) Textures count (imported): 0
