@@ -1,0 +1,22 @@
+[18:12:39.350539] [Import] [info] (th=17076) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\Shader_ball\ShaderBall_G1.fbx
+[18:12:39.516234] [Import] [info] (th=17076) Imported scene tree:
+name: "RootNode"
+
+	name: "ShaderBall_G1"
+	numMeshes: 2
+	 addr: "000002681DF4BF80"
+	 name: "Plane.001"
+	 numVertices: "1748"
+	 numFaces: "2700"
+	
+	 addr: "000002681DF4DA10"
+	 name: "Plane.001"
+	 numVertices: "9166"
+	 numFaces: "16382"
+	
+	
+
+[18:12:39.516280] [Import] [info] (th=17076) File loaded successfully
+[18:12:39.516314] [Import] [info] (th=17076) Meshes count: 2
+[18:12:39.516348] [Import] [info] (th=17076) Materials count: 2
+[18:12:39.519917] [Import] [info] (th=17076) Textures count (imported): 2

@@ -1,0 +1,17 @@
+[17:48:31.823632] [Import] [info] (th=20380) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\Shader_ball\ShaderBall_TEST.fbx
+[17:48:32.004724] [Import] [info] (th=20380) Imported scene tree:
+name: "RootNode"
+
+	name: "ShaderBall_G1.006"
+	numMeshes: 1
+	 addr: "000002A58FFEBC70"
+	 name: "Plane.004"
+	 numVertices: "9197"
+	 numFaces: "16382"
+	
+	
+
+[17:48:32.004774] [Import] [info] (th=20380) File loaded successfully
+[17:48:32.004815] [Import] [info] (th=20380) Meshes count: 1
+[17:48:32.004856] [Import] [info] (th=20380) Materials count: 1
+[17:48:32.014182] [Import] [warning] (th=20380) It seems that scene structure is different

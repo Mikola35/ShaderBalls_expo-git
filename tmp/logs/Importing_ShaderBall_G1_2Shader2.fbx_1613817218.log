@@ -1,0 +1,304 @@
+[13:33:38.494376] [Import] [info] (th=11608) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\Shader_ball\ShaderBall_G1_2Shader2.fbx
+[13:33:38.513169] [Import] [info] (th=11608) Imported scene tree:
+name: "RootNode"
+
+	name: "ShaderBall_G1_Shader"
+	numMeshes: 1
+	 addr: "000002152EF77C00"
+	 name: "Plane.007"
+	 numVertices: "6192"
+	 numFaces: "10360"
+	
+	
+
+[13:33:38.513215] [Import] [info] (th=11608) File loaded successfully
+[13:33:38.513250] [Import] [info] (th=11608) Meshes count: 1
+[13:33:38.513286] [Import] [info] (th=11608) Materials count: 1
+[13:33:38.513443] [Import] [warning] (th=11608) It seems that scene structure is different
+[13:35:00.301786] [Import] [info] (th=11608) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\Shader_ball\ShaderBall_G1_2Shader2.fbx
+[13:35:00.327479] [Import] [info] (th=11608) Imported scene tree:
+name: "RootNode"
+
+	name: "ShaderBall_G1_Shader"
+	numMeshes: 1
+	 addr: "000002152EF79BE0"
+	 name: "Plane.007"
+	 numVertices: "6192"
+	 numFaces: "10360"
+	
+	
+
+[13:35:00.327527] [Import] [info] (th=11608) File loaded successfully
+[13:35:00.327566] [Import] [info] (th=11608) Meshes count: 1
+[13:35:00.327604] [Import] [info] (th=11608) Materials count: 1
+[13:35:00.327764] [Import] [warning] (th=11608) It seems that scene structure is different
+[13:35:50.842874] [Import] [info] (th=11608) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\Shader_ball\ShaderBall_G1_2Shader2.fbx
+[13:35:50.862634] [Import] [info] (th=11608) Imported scene tree:
+name: "RootNode"
+
+	name: "ShaderBall_G1_Shader"
+	numMeshes: 1
+	 addr: "000002152EF78150"
+	 name: "Plane.007"
+	 numVertices: "6192"
+	 numFaces: "10360"
+	
+	
+
+[13:35:50.862682] [Import] [info] (th=11608) File loaded successfully
+[13:35:50.862721] [Import] [info] (th=11608) Meshes count: 1
+[13:35:50.862759] [Import] [info] (th=11608) Materials count: 1
+[13:35:50.862917] [Import] [warning] (th=11608) It seems that scene structure is different
+[13:36:00.699824] [Import] [info] (th=11608) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\Shader_ball\ShaderBall_G1_2Shader2.fbx
+[13:36:00.718996] [Import] [info] (th=11608) Imported scene tree:
+name: "RootNode"
+
+	name: "ShaderBall_G1_Shader"
+	numMeshes: 1
+	 addr: "000002152EF78BF0"
+	 name: "Plane.007"
+	 numVertices: "6192"
+	 numFaces: "10360"
+	
+	
+
+[13:36:00.719040] [Import] [info] (th=11608) File loaded successfully
+[13:36:00.719080] [Import] [info] (th=11608) Meshes count: 1
+[13:36:00.719115] [Import] [info] (th=11608) Materials count: 1
+[13:36:00.719255] [Import] [warning] (th=11608) It seems that scene structure is different
+[13:38:43.059355] [Import] [info] (th=11608) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\Shader_ball\ShaderBall_G1_2Shader2.fbx
+[13:38:43.080695] [Import] [info] (th=11608) Imported scene tree:
+name: "RootNode"
+
+	name: "ShaderBall_G1_Shader"
+	numMeshes: 1
+	 addr: "00000215579CF2F0"
+	 name: "Plane.007"
+	 numVertices: "6192"
+	 numFaces: "10360"
+	
+	
+
+[13:38:43.080742] [Import] [info] (th=11608) File loaded successfully
+[13:38:43.080780] [Import] [info] (th=11608) Meshes count: 1
+[13:38:43.080818] [Import] [info] (th=11608) Materials count: 1
+[13:38:50.645742] [Import] [info] (th=11608) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\Shader_ball\ShaderBall_G1_2Shader2.fbx
+[13:38:50.670714] [Import] [info] (th=11608) Imported scene tree:
+name: "RootNode"
+
+	name: "ShaderBall_G1_Shader"
+	numMeshes: 1
+	 addr: "00000215579CCDC0"
+	 name: "Plane.007"
+	 numVertices: "6192"
+	 numFaces: "10360"
+	
+	
+
+[13:38:50.670784] [Import] [info] (th=11608) File loaded successfully
+[13:38:50.670845] [Import] [info] (th=11608) Meshes count: 1
+[13:38:50.670908] [Import] [info] (th=11608) Materials count: 1
+[13:45:06.733585] [Import] [info] (th=11608) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\Shader_ball\ShaderBall_G1_2Shader2.fbx
+[13:45:06.754672] [Import] [info] (th=11608) Imported scene tree:
+name: "RootNode"
+
+	name: "ShaderBall_G1_Shader"
+	numMeshes: 1
+	 addr: "00000215579CD310"
+	 name: "Plane.007"
+	 numVertices: "6192"
+	 numFaces: "10360"
+	
+	
+
+[13:45:06.754716] [Import] [info] (th=11608) File loaded successfully
+[13:45:06.754751] [Import] [info] (th=11608) Meshes count: 1
+[13:45:06.754786] [Import] [info] (th=11608) Materials count: 1
+[13:45:06.754954] [Import] [warning] (th=11608) It seems that scene structure is different
+[13:45:15.429806] [Import] [info] (th=11608) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\Shader_ball\ShaderBall_G1_2Shader2.fbx
+[13:45:15.464160] [Import] [info] (th=11608) Imported scene tree:
+name: "RootNode"
+
+	name: "ShaderBall_G1_Shader"
+	numMeshes: 1
+	 addr: "00000215579CBDD0"
+	 name: "Plane.007"
+	 numVertices: "6192"
+	 numFaces: "10360"
+	
+	
+
+[13:45:15.464269] [Import] [info] (th=11608) File loaded successfully
+[13:45:15.464376] [Import] [info] (th=11608) Meshes count: 1
+[13:45:15.464461] [Import] [info] (th=11608) Materials count: 1
+[13:45:15.464844] [Import] [warning] (th=11608) It seems that scene structure is different
+[13:46:23.128569] [Import] [info] (th=11608) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\Shader_ball\ShaderBall_G1_2Shader2.fbx
+[13:46:23.152194] [Import] [info] (th=11608) Imported scene tree:
+name: "RootNode"
+
+	name: "ShaderBall_G1_Shader"
+	numMeshes: 1
+	 addr: "00000215579CEDA0"
+	 name: "Plane.007"
+	 numVertices: "6192"
+	 numFaces: "10360"
+	
+	
+
+[13:46:23.152360] [Import] [info] (th=11608) File loaded successfully
+[13:46:23.152466] [Import] [info] (th=11608) Meshes count: 1
+[13:46:23.152506] [Import] [info] (th=11608) Materials count: 1
+[13:46:23.152648] [Import] [warning] (th=11608) It seems that scene structure is different
+[13:46:30.479683] [Import] [info] (th=11608) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\Shader_ball\ShaderBall_G1_2Shader2.fbx
+[13:46:30.510529] [Import] [info] (th=11608) Imported scene tree:
+name: "RootNode"
+
+	name: "ShaderBall_G1_Shader"
+	numMeshes: 1
+	 addr: "00000215579D0D80"
+	 name: "Plane.007"
+	 numVertices: "6192"
+	 numFaces: "10360"
+	
+	
+
+[13:46:30.510664] [Import] [info] (th=11608) File loaded successfully
+[13:46:30.510734] [Import] [info] (th=11608) Meshes count: 1
+[13:46:30.510831] [Import] [info] (th=11608) Materials count: 1
+[13:46:30.511141] [Import] [warning] (th=11608) It seems that scene structure is different
+[13:49:41.175666] [Import] [info] (th=11608) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\Shader_ball\ShaderBall_G1_2Shader2.fbx
+[13:49:41.202987] [Import] [info] (th=11608) Imported scene tree:
+name: "RootNode"
+
+	name: "ShaderBall_G1_Shader"
+	numMeshes: 1
+	 addr: "00000215579CB880"
+	 name: "Plane.007"
+	 numVertices: "6192"
+	 numFaces: "10360"
+	
+	
+
+[13:49:41.203075] [Import] [info] (th=11608) File loaded successfully
+[13:49:41.203143] [Import] [info] (th=11608) Meshes count: 1
+[13:49:41.203209] [Import] [info] (th=11608) Materials count: 1
+[13:49:41.203464] [Import] [warning] (th=11608) It seems that scene structure is different
+[13:49:47.051489] [Import] [info] (th=11608) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\Shader_ball\ShaderBall_G1_2Shader2.fbx
+[13:49:47.072724] [Import] [info] (th=11608) Imported scene tree:
+name: "RootNode"
+
+	name: "ShaderBall_G1_Shader"
+	numMeshes: 1
+	 addr: "00000215579D2810"
+	 name: "Plane.007"
+	 numVertices: "6192"
+	 numFaces: "10360"
+	
+	
+
+[13:49:47.072776] [Import] [info] (th=11608) File loaded successfully
+[13:49:47.072815] [Import] [info] (th=11608) Meshes count: 1
+[13:49:47.072853] [Import] [info] (th=11608) Materials count: 1
+[13:49:47.073011] [Import] [warning] (th=11608) It seems that scene structure is different
+[13:49:53.027736] [Import] [info] (th=11608) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\Shader_ball\ShaderBall_G1_2Shader2.fbx
+[13:49:53.047740] [Import] [info] (th=11608) Imported scene tree:
+name: "RootNode"
+
+	name: "ShaderBall_G1_Shader"
+	numMeshes: 1
+	 addr: "00000215579CF840"
+	 name: "Plane.007"
+	 numVertices: "6192"
+	 numFaces: "10360"
+	
+	
+
+[13:49:53.047786] [Import] [info] (th=11608) File loaded successfully
+[13:49:53.047852] [Import] [info] (th=11608) Meshes count: 1
+[13:49:53.047951] [Import] [info] (th=11608) Materials count: 1
+[13:49:53.048134] [Import] [warning] (th=11608) It seems that scene structure is different
+[13:49:58.263405] [Import] [info] (th=11608) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\Shader_ball\ShaderBall_G1_2Shader2.fbx
+[13:49:58.294274] [Import] [info] (th=11608) Imported scene tree:
+name: "RootNode"
+
+	name: "ShaderBall_G1_Shader"
+	numMeshes: 1
+	 addr: "00000215579D0830"
+	 name: "Plane.007"
+	 numVertices: "6192"
+	 numFaces: "10360"
+	
+	
+
+[13:49:58.294410] [Import] [info] (th=11608) File loaded successfully
+[13:49:58.294561] [Import] [info] (th=11608) Meshes count: 1
+[13:49:58.294700] [Import] [info] (th=11608) Materials count: 1
+[13:49:58.295051] [Import] [warning] (th=11608) It seems that scene structure is different
+[13:52:42.393903] [Import] [info] (th=11608) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\Shader_ball\ShaderBall_G1_2Shader2.fbx
+[13:52:42.414598] [Import] [info] (th=11608) Imported scene tree:
+name: "RootNode"
+
+	name: "ShaderBall_G1_Shader"
+	numMeshes: 1
+	 addr: "00000215579CE300"
+	 name: "Plane.007"
+	 numVertices: "6192"
+	 numFaces: "10360"
+	
+	
+
+[13:52:42.414643] [Import] [info] (th=11608) File loaded successfully
+[13:52:42.414677] [Import] [info] (th=11608) Meshes count: 1
+[13:52:42.414711] [Import] [info] (th=11608) Materials count: 1
+[13:52:42.414856] [Import] [warning] (th=11608) It seems that scene structure is different
+[13:52:48.847943] [Import] [info] (th=11608) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\Shader_ball\ShaderBall_G1_2Shader2.fbx
+[13:52:48.867811] [Import] [info] (th=11608) Imported scene tree:
+name: "RootNode"
+
+	name: "ShaderBall_G1_Shader"
+	numMeshes: 1
+	 addr: "00000215579D02E0"
+	 name: "Plane.007"
+	 numVertices: "6192"
+	 numFaces: "10360"
+	
+	
+
+[13:52:48.867879] [Import] [info] (th=11608) File loaded successfully
+[13:52:48.867926] [Import] [info] (th=11608) Meshes count: 1
+[13:52:48.868037] [Import] [info] (th=11608) Materials count: 1
+[13:52:48.868198] [Import] [warning] (th=11608) It seems that scene structure is different
+[13:52:55.759987] [Import] [info] (th=11608) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\Shader_ball\ShaderBall_G1_2Shader2.fbx
+[13:52:55.779873] [Import] [info] (th=11608) Imported scene tree:
+name: "RootNode"
+
+	name: "ShaderBall_G1_Shader"
+	numMeshes: 1
+	 addr: "00000215579D22C0"
+	 name: "Plane.007"
+	 numVertices: "6192"
+	 numFaces: "10360"
+	
+	
+
+[13:52:55.779921] [Import] [info] (th=11608) File loaded successfully
+[13:52:55.779961] [Import] [info] (th=11608) Meshes count: 1
+[13:52:55.780001] [Import] [info] (th=11608) Materials count: 1
+[13:52:55.780164] [Import] [warning] (th=11608) It seems that scene structure is different
+[13:53:04.453001] [Import] [info] (th=11608) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\Shader_ball\ShaderBall_G1_2Shader2.fbx
+[13:53:04.471869] [Import] [info] (th=11608) Imported scene tree:
+name: "RootNode"
+
+	name: "ShaderBall_G1_Shader"
+	numMeshes: 1
+	 addr: "00000215579D12D0"
+	 name: "Plane.007"
+	 numVertices: "6192"
+	 numFaces: "10360"
+	
+	
+
+[13:53:04.471917] [Import] [info] (th=11608) File loaded successfully
+[13:53:04.471955] [Import] [info] (th=11608) Meshes count: 1
+[13:53:04.471993] [Import] [info] (th=11608) Materials count: 1
+[13:53:04.472148] [Import] [warning] (th=11608) It seems that scene structure is different

@@ -1,0 +1,186 @@
+[10:48:34.234424] [Import] [info] (th=1176) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\Shader_ball\Names.fbx
+[10:48:34.333605] [Import] [info] (th=1176) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane.001"
+	numMeshes: 1
+	 addr: "00000164CD7E6090"
+	 name: "Plane.001"
+	 numVertices: "15"
+	 numFaces: "8"
+	
+	
+	name: "Plane.002"
+	numMeshes: 1
+	 addr: "00000164CD7E6B30"
+	 name: "Plane.002"
+	 numVertices: "15"
+	 numFaces: "8"
+	
+	
+	name: "Plane.003"
+	numMeshes: 1
+	 addr: "00000164CD7E75D0"
+	 name: "Plane.003"
+	 numVertices: "15"
+	 numFaces: "8"
+	
+	
+	name: "Plane.004"
+	numMeshes: 1
+	 addr: "00000164CD7E9060"
+	 name: "Plane.004"
+	 numVertices: "15"
+	 numFaces: "8"
+	
+	
+	name: "Plane.005"
+	numMeshes: 1
+	 addr: "00000164CD7EAAF0"
+	 name: "Plane.005"
+	 numVertices: "15"
+	 numFaces: "8"
+	
+	
+	name: "Plane.006"
+	numMeshes: 1
+	 addr: "00000164CD7E85C0"
+	 name: "Plane.006"
+	 numVertices: "15"
+	 numFaces: "8"
+	
+	
+	name: "Plane.007"
+	numMeshes: 1
+	 addr: "00000164CD7E95B0"
+	 name: "Plane.007"
+	 numVertices: "15"
+	 numFaces: "8"
+	
+	
+	name: "Plane.008"
+	numMeshes: 1
+	 addr: "00000164CD7EC580"
+	 name: "Plane.008"
+	 numVertices: "15"
+	 numFaces: "8"
+	
+	
+	name: "Text"
+	numMeshes: 1
+	 addr: "00000164CD7E8B10"
+	 name: "Text"
+	 numVertices: "802"
+	 numFaces: "550"
+	
+	
+	name: "Text.001"
+	numMeshes: 1
+	 addr: "00000164CD7EA050"
+	 name: "Text.001"
+	 numVertices: "711"
+	 numFaces: "485"
+	
+	
+	name: "Text.002"
+	numMeshes: 1
+	 addr: "00000164CD7EB040"
+	 name: "Text.002"
+	 numVertices: "311"
+	 numFaces: "206"
+	
+	
+	name: "Text.003"
+	numMeshes: 1
+	 addr: "00000164CD7EA5A0"
+	 name: "Text.003"
+	 numVertices: "1059"
+	 numFaces: "698"
+	
+	
+	name: "Text.004"
+	numMeshes: 1
+	 addr: "00000164CB1102E0"
+	 name: "Text.004"
+	 numVertices: "653"
+	 numFaces: "438"
+	
+	
+	name: "Text.005"
+	numMeshes: 1
+	 addr: "00000164873F79C0"
+	 name: "Text.005"
+	 numVertices: "470"
+	 numFaces: "303"
+	
+	
+	name: "Text.006"
+	numMeshes: 1
+	 addr: "00000164873F59E0"
+	 name: "Text.006"
+	 numVertices: "1141"
+	 numFaces: "778"
+	
+	
+	name: "Text.007"
+	numMeshes: 1
+	 addr: "00000164873F5F30"
+	 name: "Text.007"
+	 numVertices: "378"
+	 numFaces: "258"
+	
+	
+	name: "Text.008"
+	numMeshes: 1
+	 addr: "00000164873F69D0"
+	 name: "Text.008"
+	 numVertices: "988"
+	 numFaces: "683"
+	
+	
+	name: "Plane.009"
+	numMeshes: 1
+	 addr: "00000164873F7470"
+	 name: "Plane.009"
+	 numVertices: "15"
+	 numFaces: "8"
+	
+	
+
+[10:48:34.333654] [Import] [info] (th=1176) File loaded successfully
+[10:48:34.333688] [Import] [info] (th=1176) Meshes count: 18
+[10:48:34.333721] [Import] [info] (th=1176) Materials count: 2
+[10:48:34.342103] [Import] [info] (th=1176) Textures count (imported): 0
+[10:53:43.637396] [Import] [info] (th=1176) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\Shader_ball\Names.fbx
+[10:53:43.648242] [Import] [info] (th=1176) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane.010"
+	numMeshes: 1
+	 addr: "00000164873FB430"
+	 name: "Plane.010"
+	 numVertices: "6648"
+	 numFaces: "4427"
+	
+	
+
+[10:53:43.648285] [Import] [info] (th=1176) File loaded successfully
+[10:53:43.648319] [Import] [info] (th=1176) Meshes count: 1
+[10:53:43.648358] [Import] [info] (th=1176) Materials count: 1
+[10:53:43.648471] [Import] [info] (th=1176) Textures count (imported): 0
+[11:00:05.357533] [Import] [info] (th=1176) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\Shader_ball\Names.fbx
+[11:00:05.368424] [Import] [info] (th=1176) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane.010"
+	numMeshes: 1
+	 addr: "00000164873F8460"
+	 name: "Plane.010"
+	 numVertices: "6650"
+	 numFaces: "4400"
+	
+	
+
+[11:00:05.368470] [Import] [info] (th=1176) File loaded successfully
+[11:00:05.368507] [Import] [info] (th=1176) Meshes count: 1
+[11:00:05.368543] [Import] [info] (th=1176) Materials count: 1

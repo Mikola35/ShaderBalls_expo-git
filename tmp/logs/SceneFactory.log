@@ -1,0 +1,7 @@
+[18:57:51.157932] [SceneFactory] [info] (th=3308) Plane is created: id: D6B877AD-48A3-4B65-80F3-46EDBFC21B67
+[19:21:59.630467] [SceneFactory] [info] (th=3308) Light is created: id: 3D029C76-70A7-4918-8599-7D9F7C1D9349
+[11:23:06.310000] [SceneFactory] [info] (th=1176) Sphere is created: id: 29AC014D-0F7F-4160-B8EB-645E4A0197CF
+[14:39:23.352200] [SceneFactory] [info] (th=18808) Light is created: id: 48CBA657-19B0-4C44-8213-5CF585BC4D6D
+[15:00:29.705248] [SceneFactory] [info] (th=18808) Sphere is created: id: C392BF20-6418-40FB-AD01-D5F1448A15A6
+[17:34:51.795191] [SceneFactory] [info] (th=20380) Light is created: id: 68F9BEF1-D839-4D07-85CF-57328FAC753B
+[15:14:35.561789] [SceneFactory] [info] (th=28820) Log level for 'SceneFactory' set to 'info'

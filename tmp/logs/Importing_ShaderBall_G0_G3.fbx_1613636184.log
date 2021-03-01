@@ -1,0 +1,61 @@
+[11:16:24.311631] [Import] [info] (th=11648) Importing from E:\!_WORK\GAMEdev\Manu\Small_tasks\Shader_ball\ShaderBall_G0_G3.fbx
+[11:16:24.577562] [Import] [info] (th=11648) Imported scene tree:
+name: "RootNode"
+
+	name: "ShaderBall_G1.000"
+	numMeshes: 2
+	 addr: "000002103074B2D0"
+	 name: "Sphere.004"
+	 numVertices: "1692"
+	 numFaces: "2638"
+	
+	 addr: "0000021030749840"
+	 name: "Sphere.004"
+	 numVertices: "9230"
+	 numFaces: "16444"
+	
+	
+	name: "ShaderBall_G2.000"
+	numMeshes: 2
+	 addr: "0000021030749D90"
+	 name: "Sphere.036"
+	 numVertices: "7992"
+	 numFaces: "14546"
+	
+	 addr: "0000021030745DD0"
+	 name: "Sphere.036"
+	 numVertices: "2089"
+	 numFaces: "3394"
+	
+	
+	name: "ShaderBall_G3.000"
+	numMeshes: 2
+	 addr: "000002103074D2B0"
+	 name: "Sphere.010"
+	 numVertices: "12961"
+	 numFaces: "22834"
+	
+	 addr: "0000021030747310"
+	 name: "Sphere.010"
+	 numVertices: "2349"
+	 numFaces: "4184"
+	
+	
+	name: "ShaderBall_old.000"
+	numMeshes: 2
+	 addr: "000002103074CD60"
+	 name: "ShaderBall"
+	 numVertices: "2742"
+	 numFaces: "4654"
+	
+	 addr: "0000021030747DB0"
+	 name: "ShaderBall"
+	 numVertices: "1881"
+	 numFaces: "2808"
+	
+	
+
+[11:16:24.577609] [Import] [info] (th=11648) File loaded successfully
+[11:16:24.577643] [Import] [info] (th=11648) Meshes count: 8
+[11:16:24.577676] [Import] [info] (th=11648) Materials count: 8
+[11:16:24.586485] [Import] [info] (th=11648) Textures count (imported): 4
