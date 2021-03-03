@@ -7,6 +7,8 @@
 [15:14:35.561789] [SceneFactory] [info] (th=28820) Log level for 'SceneFactory' set to 'info'
 [14:17:34.560323] [SceneFactory] [info] (th=96892) Log level for 'SceneFactory' set to 'info'
 [14:18:27.523784] [SceneFactory] [info] (th=96892) GhostObject is created: id: D165C6AB-268B-4425-A83E-3F9BC2927942
-[14:28:50.607058] [SceneFactory] [info] (th=96892) GhostObject is created: id: 79081934-6F7C-4B64-AB01-2A01ED7D45A6
-[14:33:28.900692] [SceneFactory] [info] (th=96892) GhostObject is created: id: D7F319EC-1918-44F8-BF11-610DCB129900
-[14:37:47.808160] [SceneFactory] [info] (th=96892) Light is created: id: A16189DB-A04C-45F1-A348-9FB32F8590C8
+[00:30:14.127876] [SceneFactory] [info] (th=1411216) Log level for 'SceneFactory' set to 'info'
+[00:30:14.128920] [SceneFactory] [info] (th=1411216) Light is created: id: 279D00AA-B60C-4A4F-9C55-47A6B62831E9
+[00:38:34.917100] [SceneFactory] [info] (th=1411216) GhostObject is created: id: 3867FDF9-E711-45DD-9832-9BE73CDE8241
+[00:41:42.081862] [SceneFactory] [info] (th=1411216) GhostObject is created: id: 9FBDB5CB-67CC-4935-B50E-508D96C7D38F
+[00:59:04.885047] [SceneFactory] [info] (th=1411216) Log level for 'SceneFactory' set to 'info'
