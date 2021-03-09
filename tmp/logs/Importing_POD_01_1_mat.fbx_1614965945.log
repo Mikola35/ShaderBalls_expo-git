@@ -1,0 +1,248 @@
+[19:39:05.172615] [Import] [info] (th=789621) Log level for 'Import' set to 'info'
+[19:39:05.173077] [Import] [info] (th=789621) Importing from /Users/nikolay/Documents/Models/POD_01_1_mat.fbx
+[19:39:05.194569] [Import] [info] (th=789621) Imported scene tree:
+name: "RootNode"
+
+	name: "Pod_00"
+	numMeshes: 1
+	 addr: "0x7f929c8cb600"
+	 name: "Plane.023"
+	 numVertices: "231"
+	 numFaces: "182"
+	
+	
+	name: "Text_plane"
+	numMeshes: 1
+	 addr: "0x7f929d1f9000"
+	 name: "Plane.022"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+
+[19:39:05.195079] [Import] [info] (th=789621) File loaded successfully
+[19:39:05.195085] [Import] [info] (th=789621) Meshes count: 2
+[19:39:05.195652] [Import] [info] (th=789621) Materials count: 2
+[19:39:05.198372] [Import] [warning] (th=789621) Texture not found: /Users/nikolay/Documents/Models/E:/!_WORK/GAMEdev/Manu/Manu_all/ShaderBalls_expo-git-main/ShaderBalls_expo-git-main/images/T_Dark_D.jpg
+[19:39:05.198902] [Import] [info] (th=789621) Textures count (imported): 0
+[19:39:13.347125] [Import] [info] (th=789621) Importing from /Users/nikolay/Documents/Models/POD_01_2_mat.fbx
+[19:39:13.350326] [Import] [info] (th=789621) Imported scene tree:
+name: "RootNode"
+
+	name: "Pod_00"
+	numMeshes: 2
+	 addr: "0x7f92a1f01400"
+	 name: "Plane.023"
+	 numVertices: "223"
+	 numFaces: "178"
+	
+	 addr: "0x7f929d3e6a00"
+	 name: "Plane.023"
+	 numVertices: "8"
+	 numFaces: "4"
+	
+	
+	name: "Text_plane"
+	numMeshes: 1
+	 addr: "0x7f929d3b4200"
+	 name: "Plane.022"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+
+[19:39:13.350340] [Import] [info] (th=789621) File loaded successfully
+[19:39:13.350344] [Import] [info] (th=789621) Meshes count: 3
+[19:39:13.350356] [Import] [info] (th=789621) Materials count: 3
+[19:39:13.350432] [Import] [warning] (th=789621) Texture not found: /Users/nikolay/Documents/Models/E:/!_WORK/GAMEdev/Manu/Manu_all/ShaderBalls_expo-git-main/ShaderBalls_expo-git-main/images/T_Dark_D.jpg
+[19:39:13.350507] [Import] [info] (th=789621) Textures count (imported): 0
+[20:00:20.528743] [Import] [info] (th=789621) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Projects/ShaderBalls_expo-git/stand.fbx
+[20:00:20.531507] [Import] [info] (th=789621) Imported scene tree:
+name: "RootNode"
+
+	name: "Pod_00"
+	numMeshes: 1
+	 addr: "0x7f92a1f01a00"
+	 name: "Plane.023"
+	 numVertices: "231"
+	 numFaces: "182"
+	
+	
+	name: "Text_plane"
+	numMeshes: 1
+	 addr: "0x7f92a1fce800"
+	 name: "Plane.022"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+
+[20:00:20.531525] [Import] [info] (th=789621) File loaded successfully
+[20:00:20.531529] [Import] [info] (th=789621) Meshes count: 2
+[20:00:20.531531] [Import] [info] (th=789621) Materials count: 2
+[20:00:20.531681] [Import] [warning] (th=789621) Texture not found: /Users/nikolay/Yandex.Disk.localized/MANU/Projects/ShaderBalls_expo-git//Users/nikolay/Yandex.Disk.localized/MANU/Assets/DocumentationKit/Textures/T_Dark_D.jpg
+[20:00:20.533429] [Import] [info] (th=789621) Textures count (imported): 1
+[20:18:15.169077] [Import] [info] (th=789621) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Projects/ShaderBalls_expo-git/stand.fbx
+[20:18:15.172849] [Import] [info] (th=789621) Imported scene tree:
+name: "RootNode"
+
+	name: "Pod_00"
+	numMeshes: 2
+	 addr: "0x7f92a0e3d200"
+	 name: "Plane.023"
+	 numVertices: "152"
+	 numFaces: "178"
+	
+	 addr: "0x7f92a0edaa00"
+	 name: "Plane.023"
+	 numVertices: "6"
+	 numFaces: "4"
+	
+	
+	name: "Text_plane"
+	numMeshes: 1
+	 addr: "0x7f92a0eeea00"
+	 name: "Plane.022"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+
+[20:18:15.172871] [Import] [info] (th=789621) File loaded successfully
+[20:18:15.172876] [Import] [info] (th=789621) Meshes count: 3
+[20:18:15.172877] [Import] [info] (th=789621) Materials count: 3
+[20:18:15.173099] [Import] [info] (th=789621) Textures count (imported): 2
+[20:28:28.664983] [Import] [info] (th=789621) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Projects/ShaderBalls_expo-git/stand.fbx
+[20:28:28.680430] [Import] [info] (th=789621) Imported scene tree:
+name: "RootNode"
+
+	name: "Pod_00"
+	numMeshes: 2
+	 addr: "0x7f929cc35e00"
+	 name: "Plane.023"
+	 numVertices: "152"
+	 numFaces: "178"
+	
+	 addr: "0x7f929cc17e00"
+	 name: "Plane.023"
+	 numVertices: "6"
+	 numFaces: "4"
+	
+	
+	name: "Text_plane"
+	numMeshes: 1
+	 addr: "0x7f929cc5e000"
+	 name: "Plane.022"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+
+[20:28:28.680452] [Import] [info] (th=789621) File loaded successfully
+[20:28:28.680473] [Import] [info] (th=789621) Meshes count: 3
+[20:28:28.680476] [Import] [info] (th=789621) Materials count: 3
+[20:28:28.680495] [Import] [error] (th=789621) Can't find mesh for replace.
+[20:28:42.608976] [Import] [info] (th=789621) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Projects/ShaderBalls_expo-git/stand.fbx
+[20:28:42.612868] [Import] [info] (th=789621) Imported scene tree:
+name: "RootNode"
+
+	name: "Pod_00"
+	numMeshes: 2
+	 addr: "0x7f92a1eb9600"
+	 name: "Plane.023"
+	 numVertices: "152"
+	 numFaces: "178"
+	
+	 addr: "0x7f92a1d95800"
+	 name: "Plane.023"
+	 numVertices: "6"
+	 numFaces: "4"
+	
+	
+	name: "Text_plane"
+	numMeshes: 1
+	 addr: "0x7f92a1d70800"
+	 name: "Plane.022"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+
+[20:28:42.612879] [Import] [info] (th=789621) File loaded successfully
+[20:28:42.612884] [Import] [info] (th=789621) Meshes count: 3
+[20:28:42.612885] [Import] [info] (th=789621) Materials count: 3
+[20:28:42.612895] [Import] [error] (th=789621) Can't find mesh for replace.
+[20:29:19.179898] [Import] [info] (th=789621) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Projects/ShaderBalls_expo-git/stand.fbx
+[20:29:19.181280] [Import] [info] (th=789621) Imported scene tree:
+name: "RootNode"
+
+	name: "Pod_00"
+	numMeshes: 2
+	 addr: "0x7f92a0a48000"
+	 name: "Plane.023"
+	 numVertices: "152"
+	 numFaces: "178"
+	
+	 addr: "0x7f92a0a7a200"
+	 name: "Plane.023"
+	 numVertices: "6"
+	 numFaces: "4"
+	
+	
+
+[20:29:19.181290] [Import] [info] (th=789621) File loaded successfully
+[20:29:19.181294] [Import] [info] (th=789621) Meshes count: 2
+[20:29:19.181296] [Import] [info] (th=789621) Materials count: 2
+[20:29:19.181314] [Import] [error] (th=789621) Can't find mesh for replace.
+[20:29:33.585623] [Import] [info] (th=789621) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Projects/ShaderBalls_expo-git/stand.fbx
+[20:29:33.587138] [Import] [info] (th=789621) Imported scene tree:
+name: "RootNode"
+
+	name: "Pod_00"
+	numMeshes: 2
+	 addr: "0x7f92a0bb9c00"
+	 name: "Plane.023"
+	 numVertices: "152"
+	 numFaces: "178"
+	
+	 addr: "0x7f92a0a3d000"
+	 name: "Plane.023"
+	 numVertices: "6"
+	 numFaces: "4"
+	
+	
+
+[20:29:33.587145] [Import] [info] (th=789621) File loaded successfully
+[20:29:33.587148] [Import] [info] (th=789621) Meshes count: 2
+[20:29:33.587149] [Import] [info] (th=789621) Materials count: 2
+[20:29:33.590802] [Import] [info] (th=789621) Textures count (imported): 1
+[20:30:34.500320] [Import] [info] (th=789621) Importing from /Users/nikolay/Yandex.Disk.localized/MANU/Projects/ShaderBalls_expo-git/stand.fbx
+[20:30:34.502342] [Import] [info] (th=789621) Imported scene tree:
+name: "RootNode"
+
+	name: "Pod_00"
+	numMeshes: 2
+	 addr: "0x7f929d57d000"
+	 name: "Plane.023"
+	 numVertices: "152"
+	 numFaces: "178"
+	
+	 addr: "0x7f929d1b7600"
+	 name: "Plane.023"
+	 numVertices: "6"
+	 numFaces: "4"
+	
+	
+	name: "Text_plane"
+	numMeshes: 1
+	 addr: "0x7f929d65da00"
+	 name: "Plane.022"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+
+[20:30:34.502351] [Import] [info] (th=789621) File loaded successfully
+[20:30:34.502355] [Import] [info] (th=789621) Meshes count: 3
+[20:30:34.502356] [Import] [info] (th=789621) Materials count: 3
+[20:30:34.502538] [Import] [info] (th=789621) Textures count (imported): 2

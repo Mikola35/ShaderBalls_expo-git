@@ -1,0 +1,115 @@
+[16:30:59.547596] [Import] [info] (th=756246) Log level for 'Import' set to 'info'
+[16:30:59.548106] [Import] [info] (th=756246) Importing from /Users/nikolay/Documents/Models/pods1.fbx
+[16:30:59.556119] [Import] [info] (th=756246) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane.001"
+	numMeshes: 2
+	 addr: "0x7fcd8b2bb000"
+	 name: "Plane.019"
+	 numVertices: "401"
+	 numFaces: "434"
+	
+	 addr: "0x7fcd8b2e2e00"
+	 name: "Plane.019"
+	 numVertices: "36"
+	 numFaces: "32"
+	
+	
+	name: "Plane.002"
+	numMeshes: 2
+	 addr: "0x7fcd8b2f2800"
+	 name: "Plane.020"
+	 numVertices: "144"
+	 numFaces: "106"
+	
+	 addr: "0x7fcd8b2f2e00"
+	 name: "Plane.020"
+	 numVertices: "8"
+	 numFaces: "4"
+	
+	
+	name: "Plane.003"
+	numMeshes: 2
+	 addr: "0x7fcd8b2f5600"
+	 name: "Plane.021"
+	 numVertices: "140"
+	 numFaces: "106"
+	
+	 addr: "0x7fcd8b300a00"
+	 name: "Plane.021"
+	 numVertices: "8"
+	 numFaces: "4"
+	
+	
+	name: "Plane.004"
+	numMeshes: 2
+	 addr: "0x7fcd8b304600"
+	 name: "Plane.022"
+	 numVertices: "42"
+	 numFaces: "22"
+	
+	 addr: "0x7fcd8b304c00"
+	 name: "Plane.022"
+	 numVertices: "8"
+	 numFaces: "4"
+	
+	
+	name: "Plane.005"
+	numMeshes: 2
+	 addr: "0x7fcd8b307000"
+	 name: "Plane.023"
+	 numVertices: "68"
+	 numFaces: "36"
+	
+	 addr: "0x7fcd8b307600"
+	 name: "Plane.023"
+	 numVertices: "8"
+	 numFaces: "4"
+	
+	
+	name: "Plane.006"
+	numMeshes: 2
+	 addr: "0x7fcd8b2fdc00"
+	 name: "Plane.024"
+	 numVertices: "444"
+	 numFaces: "328"
+	
+	 addr: "0x7fcd8b310800"
+	 name: "Plane.024"
+	 numVertices: "36"
+	 numFaces: "32"
+	
+	
+	name: "Plane.007"
+	numMeshes: 2
+	 addr: "0x7fcd8b325200"
+	 name: "Plane.025"
+	 numVertices: "645"
+	 numFaces: "472"
+	
+	 addr: "0x7fcd8b329400"
+	 name: "Plane.025"
+	 numVertices: "36"
+	 numFaces: "32"
+	
+	
+	name: "Plane.008"
+	numMeshes: 2
+	 addr: "0x7fcd8b33a200"
+	 name: "Plane.026"
+	 numVertices: "454"
+	 numFaces: "328"
+	
+	 addr: "0x7fcd8b342000"
+	 name: "Plane.026"
+	 numVertices: "39"
+	 numFaces: "32"
+	
+	
+
+[16:30:59.556954] [Import] [info] (th=756246) File loaded successfully
+[16:30:59.556973] [Import] [info] (th=756246) Meshes count: 16
+[16:30:59.556981] [Import] [info] (th=756246) Materials count: 2
+[16:30:59.557168] [Import] [warning] (th=756246) Texture not found: /Users/nikolay/Documents/Models/E:/!_WORK/GAMEdev/Manu/Manu_all/ShaderBalls_expo-git-main/ShaderBalls_expo-git-main/images/T_Dark_D.jpg
+[16:30:59.557220] [Import] [info] (th=756246) Textures count (imported): 0
