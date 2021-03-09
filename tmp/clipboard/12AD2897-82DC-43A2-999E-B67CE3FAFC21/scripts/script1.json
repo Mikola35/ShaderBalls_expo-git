@@ -1,0 +1,30 @@
+{
+    "@class": "AnimationScript",
+    "id": {
+        "uuid": "4009C11B-7AA2-48E0-B821-616917FFCD0A"
+    },
+    "name": "Enabled",
+    "enableOnAwake": false,
+    "OwnerLink": {
+        "@class": "BindingLink",
+        "targetId": {
+            "uuid": "3CCC2C4A-99B2-4226-A6D0-4F7F33E78E64"
+        },
+        "targetRelativeAddress": {
+            "@class": "NodeRelativeAddressBase",
+            "index": 1,
+            "name": "Help",
+            "subaddress": {
+                "@class": "NodeRelativeAddressBase",
+                "index": 2,
+                "name": "Enabled"
+            }
+        }
+    },
+    "animation": {
+        "uuid": "BA939BE0-6E99-4A55-BA03-A3C4DE43AB84"
+    },
+    "AnimationType": "object3D",
+    "is_imported": false,
+    "isEnabled": true
+}

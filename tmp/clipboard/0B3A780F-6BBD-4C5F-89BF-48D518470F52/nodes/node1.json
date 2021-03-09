@@ -1,0 +1,79 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "0D089C2D-F491-4175-B2F0-5A9963699768"
+            },
+            "name": "Plane 2",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "ECBC9897-1A72-4CB2-90C4-7FDA2D40B10C"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "2689B013-E1D0-4061-A959-C3C0AB4A1CA7"
+                },
+                "mapsStates": 1
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        0.5,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0000012940963642904535,
+                        0.000004829631507163867,
+                        0.0,
+                        0.0,
+                        -0.3752623498439789,
+                        0.10055128484964371,
+                        0.0,
+                        0.0,
+                        0.5,
+                        1.0000001192092896,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        0.5,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0000012940962506036158,
+                        0.0000048296310524165168,
+                        0.0,
+                        0.0,
+                        -0.3752623200416565,
+                        0.10055127739906311,
+                        0.0,
+                        -30.0,
+                        1.0,
+                        -19.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        }
+    }
+]

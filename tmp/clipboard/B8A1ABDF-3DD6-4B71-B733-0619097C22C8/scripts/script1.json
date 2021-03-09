@@ -1,0 +1,99 @@
+{
+    "@class": "TimeLineScript",
+    "id": {
+        "uuid": "970022E4-48E1-49BB-B121-51F2FD0398CC"
+    },
+    "name": "Animation",
+    "enableOnAwake": false,
+    "loop": false,
+    "jumpToFirstFrameAtEnd": false,
+    "speed": 1.0,
+    "weight": 1.0,
+    "loopStartTime": 0,
+    "loopDuration": 0,
+    "is_imported": false,
+    "type": "user",
+    "scripts": {
+        "@class": "StdListRuntimeScript",
+        "list": [
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "7DCA217A-571D-4590-8772-6CC738766C01"
+                },
+                "name": "Help",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "0D089C2D-F491-4175-B2F0-5A9963699768"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 1,
+                        "name": "Help"
+                    }
+                },
+                "animation": {
+                    "uuid": "0A7952A8-B731-4512-BAE1-B5F46EB1813E"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "BD6820B9-6499-4EFC-B10D-D0E623CB2BD3"
+                },
+                "name": "x",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "145DDDBA-B481-4471-B4D5-55CD379FD0AB"
+                    }
+                },
+                "animation": {
+                    "uuid": "384C1C51-3D4E-4B75-B388-5FC730410A32"
+                },
+                "AnimationType": "avar",
+                "is_imported": false,
+                "isEnabled": true
+            }
+        ]
+    },
+    "triggers": [
+        {
+            "@class": "KeyTrigger",
+            "id": {
+                "uuid": "2ECBD630-A03D-4001-BEB1-A431E9F43ECB"
+            },
+            "ownerScriptId": {
+                "uuid": "970022E4-48E1-49BB-B121-51F2FD0398CC"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false,
+            "keyCode": 88,
+            "state": 2
+        }
+    ],
+    "symbolTable": {
+        "@class": "VariousSymbolTable",
+        "id": {
+            "uuid": "BBBE3D81-578C-41B3-B2DE-590D9CE0C4C6"
+        },
+        "variables": [
+            {
+                "@class": "VariantVariable",
+                "id": {
+                    "uuid": "145DDDBA-B481-4471-B4D5-55CD379FD0AB"
+                },
+                "name": "x",
+                "type": "float",
+                "value": 0.0
+            }
+        ]
+    }
+}
