@@ -1,0 +1,35 @@
+[15:00:02.517310] [Import] [info] (th=27175) Log level for 'Import' set to 'info'
+[15:00:02.517318] [Import] [info] (th=27175) Importing from /Users/nikolay/Documents/Models/Shade Ball V2/ShaderBall_G1_v4_1mat.fbx
+[15:00:02.537763] [Import] [info] (th=27175) Imported scene tree:
+name: "RootNode"
+
+	name: "ShaderBall_G1_Shader"
+	numMeshes: 1
+	 addr: "0x7fa98ebfe600"
+	 name: "Plane.005"
+	 numVertices: "7781"
+	 numFaces: "12616"
+	
+	
+
+[15:00:02.537773] [Import] [info] (th=27175) File loaded successfully
+[15:00:02.537787] [Import] [info] (th=27175) Meshes count: 1
+[15:00:02.537788] [Import] [info] (th=27175) Materials count: 1
+[15:00:02.537873] [Import] [info] (th=27175) Textures count (imported): 0
+[15:03:12.455605] [Import] [info] (th=27175) Importing from /Users/nikolay/Documents/Models/Shade Ball V2/ShaderBall_G1_v4_1mat.fbx
+[15:03:12.478267] [Import] [info] (th=27175) Imported scene tree:
+name: "RootNode"
+
+	name: "ShaderBall_G1_Shader"
+	numMeshes: 1
+	 addr: "0x7fa98f6ad000"
+	 name: "Plane.005"
+	 numVertices: "7781"
+	 numFaces: "12616"
+	
+	
+
+[15:03:12.478278] [Import] [info] (th=27175) File loaded successfully
+[15:03:12.478282] [Import] [info] (th=27175) Meshes count: 1
+[15:03:12.478283] [Import] [info] (th=27175) Materials count: 1
+[15:03:12.478341] [Import] [info] (th=27175) Textures count (imported): 0
